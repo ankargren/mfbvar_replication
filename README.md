@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/117082747.svg)](https://zenodo.org/badge/latestdoi/117082747) [![DOI](https://zenodo.org/badge/72736017.svg)](https://zenodo.org/badge/latestdoi/72736017)
 # Replication files to Ankargren, Unosson and Yang (2018)
 This repository provides the necessary files to reproduce Ankargren, Unosson and Yang (2018).
 
